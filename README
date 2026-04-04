@@ -25,11 +25,9 @@ Users can add, delete, search, display, load, and save games.
 - Makefile
 - games.txt
 
-## How to Compile
-
-
 ## How to Run
-
+make
+./program
 
 ## Authors
 - Blaine Smith
