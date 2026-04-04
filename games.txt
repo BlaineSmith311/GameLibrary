@@ -1,0 +1,42 @@
+Skyrim
+Bethesda
+RPG
+100
+39.99
+2011
+Witcher 3
+CDPR
+RPG
+120
+49.99
+2015
+Sims 4
+EA
+Simulation
+80
+39.99
+2014
+Elden Ring
+FromSoftware, Inc
+RPG
+634.8
+59.99
+2022
+Halo
+Microsoft
+FPS
+50
+59.99
+2001
+Minecraft
+Mojang
+Sandbox
+200
+26.95
+2011
+Crimson Desert
+Pearl Abyss
+RPG
+186
+69.99
+2026
