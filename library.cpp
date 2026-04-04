@@ -252,33 +252,3 @@ void Library::print()
              << setw(10) << g.year << "\n";
     }
 }
-
-/***************************************************
- * Function: load
- * Description:
- * Loads game data from a file into the list.
- * Parameters:
- *   string filename - file to read from
- * Returns:
- *   void
- ***************************************************/
-
- /***************************************************
- * Function: save
- * Description:
- * Writes all game data from the list to a file.
- * Parameters:
- *   string filename - file to write to
- * Returns:
- *   void
- ***************************************************/
-
- /***************************************************
- * Function: push_back
- * Description:
- * Adds a game to the end of the list.
- * Parameters:
- *   Game g - game to add
- * Returns:
- *   void
- ***************************************************/
